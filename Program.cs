@@ -1,4 +1,5 @@
-﻿using DemoDiamondProblem.Entities;
+﻿using System;
+using DemoDiamondProblem.Entities;
 
 namespace DemoDiamondProblem
 {
