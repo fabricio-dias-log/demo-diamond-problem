@@ -1,6 +1,6 @@
 ﻿namespace DemoDiamondProblem.Entities;
 
-public class Scanner : Device
+public class Scanner : Device, IScanner
 {
     public override void ProcessDoc(string document)
     {

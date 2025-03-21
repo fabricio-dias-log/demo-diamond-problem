@@ -1,0 +1,15 @@
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\bin\Debug\net8.0\DemoDiamondProblem.exe
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\bin\Debug\net8.0\DemoDiamondProblem.deps.json
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\bin\Debug\net8.0\DemoDiamondProblem.runtimeconfig.json
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\bin\Debug\net8.0\DemoDiamondProblem.dll
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\bin\Debug\net8.0\DemoDiamondProblem.pdb
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.AssemblyInfoInputs.cache
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.AssemblyInfo.cs
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.sourcelink.json
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.dll
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\refint\DemoDiamondProblem.dll
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.pdb
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\DemoDiamondProblem.genruntimeconfig.cache
+C:\Users\Fabricio\Projects\C#\Course\DemoDiamondProblem\obj\Debug\net8.0\ref\DemoDiamondProblem.dll
